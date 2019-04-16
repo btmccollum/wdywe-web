@@ -5,8 +5,8 @@ import { Navbar, Nav, NavDropdown, Container, Form, FormControl, Button } from '
 export const NavBar = () => {
 
     return (
-        <Container w-100>
-            <Navbar fixed="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
+        <Container fluid>
+            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Navbar.Brand href="#home">WDYWE?</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
