@@ -18,7 +18,6 @@ React Layout:
     App
         +Nav
             -logo
-            -Burgermenu (top right)
         +Map
         +Reviews (Index-5 most recent?)
             -Reviews List
